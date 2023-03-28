@@ -49,6 +49,7 @@
       response.amazon = {
         site: 'Amazon',
         link: `https://www.amazon.in/${amazonLink}`,
+        desc:product,
         rating:amazonRating,
         image:flipkartImage,
         price: amazonPrice,
